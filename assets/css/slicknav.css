@@ -7,7 +7,7 @@
   cursor: pointer;
   display: block;
   float: right;
-  height: 35px;
+  height: 45px;
   line-height: 50px;
   padding: 10px 0 9px;
   position: relative;
@@ -120,8 +120,8 @@
     padding: 5px 10px;
     margin: 2px 5px; }
   .slicknav_nav a {
-    padding: 5px 10px;
-    margin: 2px 5px;
+    padding: 6px 10px;
+    /* margin: 2px 5px; */
     text-decoration: none;
     color: #666; }
   .slicknav_nav .slicknav_txtnode {
